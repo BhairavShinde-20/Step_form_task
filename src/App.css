@@ -1,0 +1,10 @@
+/* 
+@media(max-width:400px){
+    .stepers{
+        display:inline-grid!important;
+    }
+    .steps{
+        margin-top: 10px;
+        padding: 10px;
+    }
+} */
